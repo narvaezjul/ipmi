@@ -1,3 +1,8 @@
+//Narvaez Julieta 
+//Legajo 86487/6
+//Comisión 3
+
+
 PImage miFoto;
 
 void setup() {
